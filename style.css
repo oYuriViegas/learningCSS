@@ -1,0 +1,19 @@
+h1{
+    color: purple;
+    border: yellow 2px dashed;
+}
+h4{
+    color: #ffffff;
+    font-size: 30px;    
+}
+.moon{
+    color: limegreen;
+}
+li{
+    color: turquoise;
+}
+body{
+    background-image: url('https://images5.alphacoders.com/102/thumb-1920-1020666.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
